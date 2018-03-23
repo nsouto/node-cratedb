@@ -1,6 +1,6 @@
 {
-  "name": "node-crate",
-  "version": "2.0.3",
+  "name": "node-cratedb",
+  "version": "2.0.4",
   "description": "Node.js SQL-driver for CRATE data store (crate.io)",
   "main": "lib/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/megastef/node-crate.git"
+    "url": "https://github.com/nsouto/node-cratedb.git"
   },
   "keywords": [
     "CRATE",
@@ -23,14 +23,15 @@
   ],
   "author": "Stefan Thies",
   "contributors": [
+    "Nuno Souto",
     "Igor Likhomanov",
     "Martin Heidegger"
   ],
   "license": "MIT License",
   "bugs": {
-    "url": "https://github.com/megastef/node-crate/issues"
+    "url": "https://github.com/nsouto/node-cratedb/issues"
   },
-  "homepage": "http://megastef.github.io/node-crate/",
+  "homepage": "http://nsouto.github.io/node-cratedb/",
   "dependencies": {
     "type-of-is": ">= 3.3.x"
   },
