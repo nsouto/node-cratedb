@@ -1,14 +1,13 @@
-node-crate
+node-cratedb
 ==========
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/megastef/node-crate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![NPM](https://nodei.co/npm/node-crate.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-crate/)
+[![NPM](https://nodei.co/npm/node-cratedb.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-cratedb/)
 
 
-[![Dependency Status](https://gemnasium.com/megastef/node-crate.png)](https://gemnasium.com/megastef/node-crate)
+[![Dependency Status](https://gemnasium.com/megastef/node-crate.png)](https://gemnasium.com/nsouto/node-crate)
 &nbsp;[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-&nbsp;[![bitHound Overall Score](https://www.bithound.io/github/megastef/node-crate/badges/score.svg)](https://www.bithound.io/github/megastef/node-crate)
-&nbsp;[![Build Status](https://travis-ci.org/megastef/node-crate.svg?branch=master)](https://travis-ci.org/megastef/node-crate.svg?branch=master)
+&nbsp;[![bitHound Overall Score](https://www.bithound.io/github/nsouto/node-cratedb/badges/score.svg)](https://www.bithound.io/github/nsouto/node-cratedb)
+&nbsp;[![Build Status](https://travis-ci.org/nsouto/node-cratedb.svg?branch=master)](https://travis-ci.org/nsouto/node-cratedb.svg?branch=master)
 
 
 
